@@ -25,6 +25,9 @@ To write a Python program using OpenCV to perform various geometric transformati
 8. Display the original and transformed images using Matplotlib.
 
 ## Program
+## Developed by
+### NAME : MADHUMITHA R R
+### REG NO: 212224240083
 
 ```python
 import cv2
@@ -163,24 +166,28 @@ show_images("Image Rotation", [
 ## Output
 
 ### 1. Image Translation
-<img width="422" height="313" alt="image" src="https://github.com/user-attachments/assets/d4038cd0-9009-4ca9-b95e-6c186c5a7e98" />
+
+<img width="210" height="277" alt="image" src="https://github.com/user-attachments/assets/c41ccdb5-3ec5-4606-b4b1-a78ef5c29d25" />
+
 
 ### 2. Image Scaling
 
-<img width="437" height="152" alt="image" src="https://github.com/user-attachments/assets/7c9187c5-8d79-4da0-8b72-155bb204faa7" />
+<img width="371" height="225" alt="image" src="https://github.com/user-attachments/assets/da2f3b6c-d391-4bc6-a445-4985cd293cff" />
 
 
 ### 3. Image Shearing
-<img width="422" height="305" alt="image" src="https://github.com/user-attachments/assets/caabf60a-0026-4f34-a09d-60f56ccdac90" />
+
+<img width="198" height="277" alt="image" src="https://github.com/user-attachments/assets/3b07a59a-610b-45fc-8c66-92aa54832ede" />
+
 
 ### 4. Image Reflection
 
-<img width="427" height="311" alt="image" src="https://github.com/user-attachments/assets/5e04ae4d-da29-4463-9145-027eae50e193" />
+<img width="198" height="265" alt="image" src="https://github.com/user-attachments/assets/f6a196e1-aa88-455f-ba18-3f3f9d465598" />
 
 
 ### 5. Image Rotation
 
-<img width="417" height="311" alt="image" src="https://github.com/user-attachments/assets/de08ac00-44eb-405c-8861-a362d20f2a38" />
+<img width="197" height="275" alt="image" src="https://github.com/user-attachments/assets/31c3ed1e-6c8a-44f0-b89b-8ce2edf50840" />
 
 
 ## Result
